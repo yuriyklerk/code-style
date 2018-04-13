@@ -328,7 +328,7 @@ foreach ($iterable as $key => $value) {
 }
 ```
 
-**11. Управляющие структуры try, catch: **
+**11. Управляющие структуры try, catch:**
 
 ```php
 try {
